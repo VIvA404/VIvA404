@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VIvA404
-- 👀 I’m interested in programming python and maching learning
+- 👀 I’m interested in programming python,maching learning and open cv
 - 🌱 I’m currently learning SQL,math for programming and i will learning JSON 
 - 💞️ I’m looking to collaborate on IT-company or on mini projects
 - 📫 How to reach me { 'telegram':@Imakegovnokod}
