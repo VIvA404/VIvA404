@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming python,some ML and main backend developed 
 - 🌱 I’m currently learning Django,math for programming and i will learning JS
 - 💞️ I’m looking to collaborate on IT-company or on mini projects
-- 📫 How to reach me { 'telegram':'@Imakegovnokod'}
+- 📫 How to reach me { 'telegram':'@Imgk_22'}
 
 <!---
 VIvA404/VIvA404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
